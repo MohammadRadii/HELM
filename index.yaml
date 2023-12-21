@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   test:
   - apiVersion: v2
-    #appVersion: 1.16.0
+    appVersion: v2
     created: "2023-12-21T10:13:59.8695421+03:00"
     description: A Helm chart for Kubernetes
     digest: 65d23c1eed22a2094bcf9020314e8d2ca3171d6e751d48301c1e799e42353bbe
