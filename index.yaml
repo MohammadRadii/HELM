@@ -9,6 +9,6 @@ entries:
     name: TEST
     type: application
     urls:
-    - https://github.com/MohammadRadii/HELM/raw/main/TEST-0.1.0.tgz
+    - https://raw.githubusercontent.com/MohammadRadii/HELM/main/TEST-0.1.0.tgz
     version: 0.1.0
 generated: "2023-12-21T10:13:59.8685418+03:00"
